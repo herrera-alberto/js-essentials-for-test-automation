@@ -1,0 +1,21 @@
+{
+  "name": "js-essentials-for-automation",
+  "version": "1.0.0",
+  "description": "learning js and node.js",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "node ./week6/node/file-sys/readfile.js > results/output.txt"
+  },
+  "keywords": [
+    "js",
+    "node.js"
+  ],
+  "author": "Alberto Herrera",
+  "license": "ISC",
+  "devDependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.7.0"
+  }
+}
